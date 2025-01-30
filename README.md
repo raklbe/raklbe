@@ -6,8 +6,8 @@ I’m Rakib راكيب—a passionate developer, designer, and entrepreneur with
 Feel free to reach out to me through any of the following methods:
 
 - **Email:** [rqklbe@gmail.com](mailto:rqklbe@gmail.com)
-- **Phone:** +8801317546997
-- **LinkedIn:** [Abdur Rakib Talukder]()
-- **Twitter:** [@rqklbe](https://x.com/rqklbe)
+- **Phone:** +880 1317-546997
+- **YouTube:** [rqklbe](https://youtube.com/@rqklbe)
+- **X:** [@rqklbe](https://x.com/rqklbe)
 
 Or simply fill out the contact form [here](form.html).
